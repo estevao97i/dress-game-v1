@@ -3,7 +3,6 @@
  * Sons curtinhos, fofos e leves, no estilo dos joguinhos casuais.
  */
 
-
 let ctx: AudioContext | null = null
 
 function audio(): AudioContext | null {
